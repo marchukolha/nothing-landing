@@ -20,5 +20,5 @@ The website imports the "Space Mono" and "Space Grotesk" fonts from Google Fonts
 Together, these technologies influence the structure, style and interactivity of the "Bose" website, providing a visually appealing and functional user experience.
 
 - [Demo Link](https://marchukolha.github.io/nothing-landing/)
-- [Preview](https://github.com/marchukolha/bose-landing)
+- [Preview](https://github.com/marchukolha/nothing-landing)
 - [Layout](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802%3A139&mode=dev)
